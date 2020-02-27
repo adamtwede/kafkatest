@@ -1,0 +1,14 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: git-bash
+    - uses: fnkr/github-action-git-bash@v1.1
+
+
