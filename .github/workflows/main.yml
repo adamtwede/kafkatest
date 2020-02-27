@@ -9,6 +9,6 @@ jobs:
 
     steps:
     - name: git-bash
-    - uses: fnkr/github-action-git-bash@v1.1
+      uses: fnkr/github-action-git-bash@v1.1
 
 
