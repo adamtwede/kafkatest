@@ -11,7 +11,7 @@ You can modify the code to send a set number of messages or run for a variable a
 generate a variable number of target messages (default is 10%, but it won't be exact since they are 
 randomized--the more messages you send or the longer it runs the closer to the target percentage you will get).
 
-1. download and unzip Kakfa (https://kafka.apache.org/quickstart)
+1. download and unzip Kafka (https://kafka.apache.org/quickstart)
 and follow the instructions, ie:
 2. run zookeeper from folder: 
 
