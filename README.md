@@ -1,4 +1,4 @@
-### Kakfa Test
+### Kafka Test
 
 This application runs a test of a basic Kafka Producer, Stream, and Consumer. Each runs in its own thread to
 simulate asynchronous message generation/filtering/consumption, with the Producer getting a head start. 
